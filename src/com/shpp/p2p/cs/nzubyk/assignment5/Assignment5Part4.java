@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.nzybyk.assignment5;
+package com.shpp.p2p.cs.nzubyk.assignment5;
 
 import com.shpp.cs.a.console.TextProgram;
 
@@ -7,6 +7,10 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This is CSV parser
+ * Pars your CSV file to ArrayList by column index
+ */
 
 public class Assignment5Part4 extends TextProgram {
     /**

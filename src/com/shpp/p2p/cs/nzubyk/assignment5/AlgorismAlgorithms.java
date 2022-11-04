@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.nzybyk.assignment5;
+package com.shpp.p2p.cs.nzubyk.assignment5;
 
 import com.shpp.cs.a.console.TextProgram;
 
